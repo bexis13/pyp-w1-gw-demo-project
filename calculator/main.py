@@ -1,2 +1,2 @@
 def calculate(x, y, operation):
-    pass
+    return x + y
